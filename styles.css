@@ -1,0 +1,26 @@
+body {
+  margin:0;
+  text-align:center;
+}
+h1 {
+  margin-top:0;
+}
+.top_container {
+  background-color:#CDFCF6;
+  padding:50px;
+}
+.bottom_cloud {
+  position: absolute;
+}
+.top_cloud {
+  position: relative;
+  left:200px;
+}
+.ajay_image {
+  width:150px;
+  height:150px;
+}
+.web_development {
+  width:150px;
+  height:150px;
+}
